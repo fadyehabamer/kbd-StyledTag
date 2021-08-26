@@ -1,2 +1,2 @@
-# kbd-StyledTag
-Custom style for Kbd Tag
+# kbd StyledTag
+> Custom style for Kbd Tag
